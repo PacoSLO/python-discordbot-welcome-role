@@ -8,7 +8,7 @@ You need pip install discord.py and pip install -U python-dotenv on your machine
 
 **Features**
 ------------------
-Private MSG and Join Role Assign 
+Private MSG and Join Role Assign. Can also send leave msg to a channel that you set, to see who left the server. 
 
 <img
   src="https://github.com/PacoSLO/python-discortbot-welcome-role/blob/main/welcomemsg.PNG"
